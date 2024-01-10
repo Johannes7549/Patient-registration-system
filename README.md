@@ -27,7 +27,6 @@ The Patient Registration System is a web application that allows administrators 
 
 3. **Run the Application:**
    - Deploy the application on a servlet container (e.g., Apache Tomcat).
-   - Access the application via `http://localhost:8080/PatientRegistrationSystem`.
 
 ## Usage
 
